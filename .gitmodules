@@ -1,0 +1,3 @@
+[submodule "Crawler.Tests"]
+	path = Crawler.Tests
+	url = https://github.com/Plymouth-Comp/2020-COMP1000-CW2.Tests
