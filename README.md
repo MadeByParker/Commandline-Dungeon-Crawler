@@ -1,6 +1,6 @@
 # 2020-COMP1000-CW2 ☠
 
-This is the readme for my commandline dungeom crawler game. 
+This is the readme for my commandline dungeon crawler game. 
 
 # For University COMP1000 Module
 
