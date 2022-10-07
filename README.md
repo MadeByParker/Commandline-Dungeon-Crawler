@@ -4,6 +4,8 @@ This is the readme for my commandline dungeon crawler game.
 
 # For University COMP1000 Module
 
+Results: 90/100
+
 Code explanation video --> [here](https://youtu.be/s-HPMGwV-Es)
 
 # Description how to run: 🏃‍♂️
